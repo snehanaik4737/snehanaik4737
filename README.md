@@ -22,7 +22,7 @@
 - :telescope: I’m currently working on Front-End Development
 - :seedling: I’m currently learning MERN
 - :dancers: I’m looking to collaborate on Linkedin
-- :🤔: I’m looking for help with developing AI skills..
+- 🤔: I’m looking for help with developing AI skills..
 - :speech_balloon: Ask me about any MERN related stuff
 - :mailbox: How to reach me *snehanaik856@gmail.com*
 - :smile: Pronouns: She/Her
