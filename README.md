@@ -18,6 +18,7 @@
 ## About Me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <b>Motivated and efficient Full-stack web developer</b> with a history of education in Bachelor of Science and an interest in coding. Working with MERN stack and programming languages like JavaScript catalyzed my curiosity for web development. I have worked in collaborative environments demonstrating my coding and interpersonal skills to meet deadlines. Looking forward for some interesting and challenging opportunities.
+
 - :telescope: I’m currently working on Front-End Development
 - :seedling: I’m currently learning MERN
 - :dancers: I’m looking to collaborate on Linkedin
